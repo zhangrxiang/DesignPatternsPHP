@@ -1,0 +1,1 @@
+- http://laravelacademy.org/post/2471.html
